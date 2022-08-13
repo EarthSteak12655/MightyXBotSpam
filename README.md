@@ -18,13 +18,13 @@
 
 # Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BeingMighty/MightyBotSpamDeploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/EarthSteak12655/MightyBotSpamDeploy)
 
 
 # Support & Updates
-* [⚡ Updates Channel ⚡](https://t.me/MightyXUpdates)
+* [⚡ Updates Channel ⚡](https://t.me/TrickyYash)
 
-* [✨ Support Group ✨](https://t.me/MightyXSupport)
+* [✨ Support Group ✨](https://t.me/TeamTrickyYash)
 <br>
 
 <details>
